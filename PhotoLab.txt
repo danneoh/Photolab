@@ -1,0 +1,7 @@
+In this photo lab I modified it to work with pointers instead of our usual arrays.
+Apart from this we also added 3 new functions. These functions are Rotate, Saturate
+and resize. Each of these functions must have a image loaded before trying to run it.
+Rotate has 4 options to either rotate 90 degrees right or left and vertical or horizontal
+flip. Resize is either entering a resize percent = 100, < 100, or > 100. Saturate will
+intensify the colors depending on the percetn inputted by the user. 
+
